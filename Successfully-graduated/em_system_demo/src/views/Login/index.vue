@@ -130,14 +130,14 @@ export default {
       },
       form1:[{
         teachId1: "",
-        name:"xx",
+        name:"企业名称",
         value:"",
-        placeholder:'例如'
+        placeholder:''
       },{
         teachId2: "",
-        name:"xx",
+        name:"企业邮箱",
         value:"",
-        placeholder:'例如'
+        placeholder:''
       }],
       // 表单校验的定义
       rules: {
