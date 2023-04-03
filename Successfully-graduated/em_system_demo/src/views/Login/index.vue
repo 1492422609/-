@@ -133,9 +133,20 @@ export default {
         name:"企业名称",
         value:"",
         placeholder:''
+      },
+      {
+        teachId2: "",
+        name:"密码",
+        value:"",
+        placeholder:''
       },{
         teachId2: "",
-        name:"企业邮箱",
+        name:"邮箱",
+        value:"",
+        placeholder:''
+      },{
+        teachId2: "",
+        name:"企业地址",
         value:"",
         placeholder:''
       }],
